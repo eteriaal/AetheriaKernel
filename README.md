@@ -2,6 +2,10 @@
 
 Minimal 32-bit hobby kernel with VGA text mode and interactive shell (OSDev learning project)
 
+<p align="center">
+<img src="Aetheria.png" alt="Aetheria png" width="600" />
+</p>
+
 Written in C & NASM
 
 > 🧊 Archived project.  
